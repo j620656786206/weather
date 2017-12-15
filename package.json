@@ -13,7 +13,9 @@
   },
   "author": "Alex Yu",
   "license": "ISC",
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint-config-rallycoding": "^3.2.0"
+  },
   "dependencies": {
     "axios": "^0.17.1",
     "babel-core": "^6.2.1",

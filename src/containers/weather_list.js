@@ -21,7 +21,7 @@ class WeatherList extends Component {
         );
     }
 
-    render () {
+    render() {
         return (
             <table className="table table-hover">
                 <thead>
@@ -44,4 +44,4 @@ function mapStateToProps({ weather }) {
     return { weather }; 
 }
 
-export default connect(mapStateToProps) (WeatherList);
+export default connect(mapStateToProps)(WeatherList);
