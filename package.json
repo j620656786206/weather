@@ -26,7 +26,7 @@
     "gulp": "^3.9.1",
     "gulp-eslint": "^4.0.0",
     "immutable": "^4.0.0-rc.12",
-    "jquery": "^3.0.0",
+    "jquery": "^3.4.1",
     "jsdom": "^8.1.0",
     "lodash": "^3.10.1",
     "mocha": "^2.4.5",
