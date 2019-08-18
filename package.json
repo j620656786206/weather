@@ -26,6 +26,7 @@
     "chai-jquery": "^2.0.0",
     "gulp": "^3.9.1",
     "gulp-eslint": "^4.0.0",
+    "immutable": "^4.0.0-rc.12",
     "jquery": "^3.0.0",
     "jsdom": "^8.1.0",
     "lodash": "^3.10.1",
@@ -37,7 +38,9 @@
     "react-router": "^2.0.1",
     "react-sparklines": "1.4.2",
     "redux": "^3.0.4",
+    "redux-observable": "^1.1.0",
     "redux-promise": "^0.5.3",
+    "rxjs": "^6.5.2",
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.0"
   }
