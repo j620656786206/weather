@@ -15,7 +15,6 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
-    "axios": "^0.17.1",
     "babel-core": "^6.2.1",
     "babel-eslint": "^8.0.3",
     "babel-loader": "^6.2.0",
